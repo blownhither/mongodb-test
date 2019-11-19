@@ -1,4 +1,5 @@
 pymongo
+pandas
 Flask
 Flask-Cors
 gunicorn
